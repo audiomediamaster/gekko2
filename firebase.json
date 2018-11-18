@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "web/vue",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
